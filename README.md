@@ -1,4 +1,4 @@
-# 🐚 Mini Command-Line Shell — ARM32 Assembly
+# Mini Command-Line Shell — ARM32 Assembly
 
 > **CO1020 – Computer System Programming | Assembly Project**  
 > Department of Computer Engineering, University of Peradeniya  
